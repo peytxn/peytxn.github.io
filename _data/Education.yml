@@ -2,11 +2,6 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Brighton High School
-    description:
-      - Took courses in Graphic Design and Web Development
-    date: 2018 - 2022
-    grade: "**GPA**: `4.2/4.0`"
   - title: Michigan State University, BA in Games and Interactive Media & minor in Computer Science
     description:
       - Learning about game design and development
@@ -14,3 +9,8 @@ contents:
       - Studying programming languages such as C++ and Python
     grade: "**GPA**: `3.8/4.0`"
     date: 2022 - 2026 (Expected)
+  - title: Brighton High School
+    description:
+      - Took courses in Graphic Design and Web Development
+    date: 2018 - 2022
+    grade: "**GPA**: `4.2/4.0`"

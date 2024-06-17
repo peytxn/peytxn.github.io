@@ -2,21 +2,26 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: H&M
+    role: Sales Associate
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Assisted customers with product selection and purchases
+      - Maintained store cleanliness, organization, and stock levels
+      - Handled cash and credit transactions os well as returns and exchanges
+      - Collaborated with team members to achieve sales goals and provide excellent customer service
+    date: May 2023 - Jan. 2024
+  - title: Pat Milliken Ford
+    role: Sales Assistant
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Guided customers through paperwork to ensure comprehension and completion
+      - Explained new technology and its application to customers
+      - Rotated vehicles between lots for sales use
+      - Entered and organized customer and sales information
+    date: June - Aug. 2022
+  - title: Hilton Elementary School
+    role: Graphic Design Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - In coordination with school admininistration:\ develop and communicate project objectives, discuss and revise designs, and establish installation plans to ensure timely completion of projects
+      - Coordinated with students to optimize efficiency and support innovation
+      - Designed, printed, and installed layouts for posters, banners and window wraps
+    date: Jan. - May 2022
